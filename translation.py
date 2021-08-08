@@ -10,7 +10,7 @@ class Translation(object):
     
 I am a <b>Mega Link Downloader</b> bot!
 
-Just enter your mega.nz link and I will return the file/video to you!😇
+Just send your mega link and I will send the file/video to you!😇
 
 💠 I can set custom captions and custom thumbnails too!
 
@@ -20,9 +20,9 @@ Press /help for more details!
 
 ✨ <b>I am open source so you can make your own bot from here!👇</b>"""
     
-    DOWNLOAD_START = "𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱𝗶𝗻𝗴 𝘁𝗼 𝗠𝘆 𝗦𝗲𝗿𝘃𝗲𝗿📥"
-    UPLOAD_START = "𝗨𝗽𝗹𝗼𝗮𝗱𝗶𝗻𝗴 𝗧𝗼 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺 𝗡𝗼𝘄  📤"
-    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS =  "Downloaded in <b>{}</b> seconds.\n\nUploaded in <b>{}</b> seconds.\n\n<b>Thanks For Using This Free Service</b>"
+    DOWNLOAD_START = "𝗗𝗼𝘄m𝗹𝗼𝗮𝗱𝗶m𝗴 𝘁𝗼 𝗠𝘆 𝗦𝗲𝗿𝘃𝗲𝗿, pleamse wait..📥"
+    UPLOAD_START = "𝗨𝗽𝗹𝗼𝗮𝗱𝗶𝗻𝗴 𝗧𝗼 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺 𝗡𝗼𝘄, soomn 📤"
+    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS =  "Dowmloaded in <b>{}</b> seconds.\n\nUploaded in <b>{}</b> seconds.\n\n<b>Thanks For Using This Free Service</b>"
     SAVED_CUSTOM_THUMB_NAIL = "𝗖𝘂𝘀𝘁𝗼𝗺 𝗧𝗵𝘂𝗺𝗯𝗻𝗮𝗶𝗹 𝗜𝘀 𝗦𝗮𝘃𝗲𝗱. 𝗧𝗵𝗶𝘀 𝗜𝗺𝗮𝗴𝗲 𝗪𝗶𝗹𝗹 𝗕𝗲 𝗨𝘀𝗲𝗱 𝗜𝗻 𝗬𝗼𝘂𝗿 𝗡𝗲𝘅𝘁 𝗨𝗽𝗹𝗼𝗮𝗱𝘀 📁.\n\nIf you want to delete it send\n /deletethumbnail anytime!"
     DEL_ETED_CUSTOM_THUMB_NAIL = "𝗖𝘂𝘀𝘁𝗼𝗺 𝗧𝗵𝘂𝗺𝗯𝗻𝗮𝗶𝗹 𝗖𝗹𝗲𝗮𝗿𝗲𝗱 𝗦𝘂𝗰𝗰𝗲𝘀𝘀𝗳𝘂𝗹𝗹𝘆 ❌.\nYou will now get an auto generated thumbnail for your video uploads!"
 
